@@ -31,3 +31,5 @@
 ## 5.陣列
 [幫忙把錯誤的排列調整過來](https://github.com/SYFERIC/My-C-Plus-Plus-Project/blob/main/5.%E9%99%A3%E5%88%97/%E8%AB%8B%E5%B9%AB%E5%BF%99%E6%8A%8A%E9%8C%AF%E8%AA%A4%E7%9A%84%E6%8E%92%E5%88%97%E8%AA%BF%E6%95%B4%E9%81%8E%E4%BE%86.cpp)\
 [幫忙找找心靈最大最小值](https://github.com/SYFERIC/My-C-Plus-Plus-Project/blob/main/5.%E9%99%A3%E5%88%97/%E5%B9%AB%E5%BF%99%E6%89%BE%E6%89%BE%E5%BF%83%E9%9D%88%E6%9C%80%E5%A4%A7%E6%9C%80%E5%B0%8F%E5%80%BC.cpp)
+## 6.蜂鳴器創作
+[愛江山更愛美人](https://github.com/SYFERIC/My-Computer-Class-Project/blob/main/%E6%84%9B%E6%B1%9F%E5%B1%B1%E6%9B%B4%E6%84%9B%E7%BE%8E%E4%BA%BA.cpp)
